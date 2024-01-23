@@ -1,0 +1,28 @@
+div.container{ width: 1000px; margin:0 auto;}
+ div.satu{ width: 200px;
+height: 200px;
+border: solid;
+ background-color: green;
+  margin-left: 60px auto;
+
+margin-top: 100px;
+  border-image-source:url("img/kontinus.png");
+  border-image-width: 20px;
+  border-image-repeat: round;
+  border-image-outset: 20px;
+  border-image-slice: 20 22;
+  box-shadow: 30px 30px;}
+
+
+.dua{ width: 200px;
+height: 200px;
+border: solid;
+ background-color: blue;
+float: left;
+  margin: 100px auto;
+  border-image-source:url("img/border1 (1).png");
+  border-image-width: 20px;
+  border-image-repeat: round;
+  border-image-outset: 20px;
+  border-image-slice: 20 22;
+  box-shadow:6px 6px 6px 6px;}
